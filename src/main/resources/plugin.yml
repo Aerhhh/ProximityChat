@@ -1,0 +1,4 @@
+name: ProximityChat
+version: '${project.version}'
+main: net.aerh.proximitychat.ProximityChatPlugin
+api-version: 1.19

@@ -1,0 +1,8 @@
+chat:
+  per-world: false
+  default-color: RESET
+  max-distance: 125
+  distance-colors:
+    0: RESET
+    50: GRAY
+    100: DARK_GRAY
